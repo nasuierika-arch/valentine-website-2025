@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "cat de mult ma iubesti?",                          // For the love meter
-            startText: "tare tare",                                   // Text before the percentage
+            startText: "tare tare ca pe iubita mea",                                   // Text before the percentage
             nextBtn: "mai dai❤️"                                         // Text for the next button
         },
         third: {
