@@ -5,53 +5,53 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "gazule",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "vrei sa fii valentina mea?? ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '​🧡​', '​💛​', '💚', '​🩵​', '​💜​'],  // Heart emojis
+        bears: ['🦖​', '​❤️‍🩹​']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "ma mai iubesti?​🫶​",                                    // First interaction
+            yesBtn: "da",                                             // Text for "Yes" button
+            noBtn: "nu",                                               // Text for "No" button
+            secretAnswer: "eu te iubesc mai tare​😽​​😽​"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "cat de mult ma iubesti?",                          // For the love meter
+            startText: "tare tare",                                   // Text before the percentage
+            nextBtn: "mai dai❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "vrei sa fii, nu ca n ai fii deja, valentina mea pe cate ne vedem niu nu 14 feb?:)) 🌹", // The big question!
+            yesBtn: "daa",                                             // Text for "Yes" button
+            noBtn: "gurl wtf"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "chiar asa tare ma iubesti? ​🙈​🙈​",  // Shows when they go past 5000%
+        high: "tare taree",              // Shows when they go past 1000%
+        normal: "ca pe iubita mea​🥰​"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "sunt cea mai norocoasa ca te am​🥰​​🥰​",
+        message: "si cadoul tau acum este...o pupa maaaare mare cand ne vedem",
+        emojis: "​🫶​🦖​❤️‍🩹​❤️‍🩹​❤️‍🩹​"  // These will bounce around
     },
 
     // Color scheme for the website
