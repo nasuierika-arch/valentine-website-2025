@@ -23,7 +23,7 @@ const CONFIG = {
     questions: {
         first: {
             text: "ma mai iubesti?​🫶​",                                    // First interaction
-            yesBtn: "da",                                             // Text for "Yes" button
+            yesBtn: "da!",                                             // Text for "Yes" button
             noBtn: "nu",                                               // Text for "No" button
             secretAnswer: "eu te iubesc mai tare​😽​​😽​"           // Secret hover message
         },
